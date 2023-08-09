@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Portafolio Backend
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Se abordar el desarrollo de un API REST basado en Java, abarcando todas las etapas del desarrollo del microservicio, desde la programación, pruebas unitarias e integración, despliegue, etc
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars.githubusercontent.com/u/74872836?v=4
 
 #
 # Flags below are optional
@@ -18,12 +18,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: jfonsecac2@ucentral.edu.co
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: bhttps://github.com/Stone-1986
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/ jonathan-fonseca-56b7148a
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
