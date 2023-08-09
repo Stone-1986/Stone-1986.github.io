@@ -18,4 +18,4 @@ title: Microservicios con Java y Spring Boot
 - Implementar las funcionalidades de autenticación y autorización con Spring Security
 - Pruebas unitarias con JUnit 5 y Mockito
 
-
+![un gatito]({{ site.baseurl }}/images/kitten.jpg)
