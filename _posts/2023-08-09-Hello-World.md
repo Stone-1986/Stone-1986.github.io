@@ -3,7 +3,7 @@ layout: post
 title: Microservicios con Java y Spring Boot
 ---
 
-- ![Crear y configurar repositorios locales y remotos Git](./_posts/git-repository.md)
+- [Crear y configurar repositorios locales y remotos Git](./_posts/git-repository.md)
 - Abstracción y cómo implementarla Interacción entre objetos (herencia, polimorfismo)
 - Buenas prácticas de codigo limpio
 - Inversión de Dependencias vs Inyección de Dependencias vs Inversión de Control
